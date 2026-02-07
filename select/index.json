@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Balloon",
+  "base_artist": "SKRYU",
+  "createdAt": "2026-02-07T13:05:41.206033Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Paper Mache Dream Balloon",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Paper_Mache_Dream_Balloon_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lead Balloon",
+      "artist": "Liam Finn",
+      "has_synced": true,
+      "path": "select/02_Lead_Balloon_Liam_Finn.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Beautiful Balloon",
+      "artist": "MEW",
+      "has_synced": true,
+      "path": "select/03_Beautiful_Balloon_MEW.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Beautiful Balloon",
+      "artist": "Mew",
+      "has_synced": true,
+      "path": "select/04_Beautiful_Balloon_Mew.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Disco Balloon",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/05_Disco_Balloon_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blood Red Balloon",
+      "artist": "Mystery Jets",
+      "has_synced": false,
+      "path": "select/06_Blood_Red_Balloon_Mystery_Jets.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Balloon Boy",
+      "artist": "Oliver Tree",
+      "has_synced": true,
+      "path": "select/07_Balloon_Boy_Oliver_Tree.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Balloon",
+      "artist": "Wendy & Lisa",
+      "has_synced": false,
+      "path": "select/08_Balloon_Wendy_&_Lisa.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Red Balloon",
+      "artist": "Charli XCX",
+      "has_synced": false,
+      "path": "select/09_Red_Balloon_Charli_XCX.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Balloon",
+      "artist": "Catherine Wheel",
+      "has_synced": true,
+      "path": "select/10_Balloon_Catherine_Wheel.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Heavy Balloon",
+      "artist": "Fiona Apple",
+      "has_synced": true,
+      "path": "select/11_Heavy_Balloon_Fiona_Apple.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "THE BLACKEST BALLOON | THE 13LACKEZT 13ALLOON",
+      "artist": "Denzel Curry",
+      "has_synced": true,
+      "path": "select/12_THE_BLACKEST_BALLOON___THE_13LACKEZT_13ALLOON_Denzel_Curry.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Last Balloon",
+      "artist": "XTC",
+      "has_synced": false,
+      "path": "select/13_The_Last_Balloon_XTC.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Black Balloon",
+      "artist": "Goo Goo Dolls",
+      "has_synced": true,
+      "path": "select/14_Black_Balloon_Goo_Goo_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Red Balloon",
+      "artist": "The Internet",
+      "has_synced": true,
+      "path": "select/15_Red_Balloon_The_Internet.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Balloon",
+      "artist": "SKRYU",
+      "has_synced": false,
+      "path": "select/pl_01_Balloon_SKRYU.txt"
+    }
+  ]
+}
